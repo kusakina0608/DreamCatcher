@@ -1,0 +1,45 @@
+USERS/topic_fads_harry.txt
+jul2116 Nov02'19-12:44:01 Nov02'19-12:44:54 0 |
+1 9 0 DY 0 22 22 0 # start, input#, no rejoinder, #0topics, #1topics, layer2
+~introductions ~진로상담 #pending
+~진로상담 + 1 #EW?r ki 8 0 0 
+~introductions + 1 R*QqFIs*Ok3 ca 3 0 0 
+#`end topics
+$school=H
+$cs_randindex=2083
+$cs_bot=Harry
+$cs_login=fads
+$cs_token=75726583
+$cs_control_main=~control
+$userprompt=fads: >
+$botprompt=HARRY: 
+$singleresponse=1
+$shutup=1
+$cs_trace=0
+$cs_time=0
+#`end variables
+0 #set flags
+#`end fact sets
+#`end user facts 0
+#context 
+ 안녕
+ 즐
+ 아
+ 응
+ 17
+ 아니
+ 응
+ 아니
+ 없어
+#`end user
+ 만나서 반가워~ 나는 직업,진학 정보를 제공하는 드림캐쳐 chatbot 이야~!
+ OK.
+ 여기 와본적 있니?
+ 처음이구나!!
+ 몇살이신가요?
+ 아, 고등학생이군요. 대학진학을 목표로 하나요?
+ 취업을 목표로 하시나봐요, 꿈이 있나요?
+ 고등학교 다니면서 궁금한점 있나요?
+ 어떤 고민이 있니?
+ I don't know what to say.
+#`end chatbot

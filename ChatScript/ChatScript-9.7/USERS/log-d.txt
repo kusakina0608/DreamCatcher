@@ -1,0 +1,28 @@
+﻿Start: user:d bot:harry ip:127.0.0.1 rand:1545 (~introductions) 0 ==> Welcome to ChatScript.  When:Oct26'19-13:59:45 Why:~introductions.1.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Oct25'19-21:13:58 0:Oct26'19-13:59:45 F:0 P:0
+Respond: user:d bot:harry ip:127.0.0.1 (~introductions) 1  d ==> Have you been here before?  When:Oct26'19-13:59:46 Why:~introductions.2.0.~control.9.0   F:0 
+Respond: user:d bot:harry ip:127.0.0.1 (~kpop) 2  d ==> 혹시 K-POP 좋아하세요?  When:Oct26'19-13:59:47 Why:~kpop.0.0.~control.9.0   F:1 
+Respond: user:d bot:harry ip:127.0.0.1 (~kpop) 3  예 ==> I don't know what to say.  When:Oct26'19-13:59:49 Why:~control.9.0   F:1 
+Command: :rest
+Respond: user:d bot:harry ip:127.0.0.1 (~kpop) 4  :rest ==> I don't know what to say.  When:Oct26'19-14:00:28 Why:~control.9.0   F:14 
+Command: :reset
+Start: user:d bot:harry ip:127.0.0.1 rand:1545 (~introductions) 0 ==> Welcome to ChatScript.  When:Oct26'19-14:00:30 Why:~introductions.1.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Oct25'19-21:13:58 0:Oct26'19-13:59:45 F:0 P:Oct26'19-14:00:28
+Command: :build harry reset
+Command: :reset
+Start: user:d bot:harry ip:127.0.0.1 rand:1545 (~introductions) 0 ==> 만나서 반가워~ 나는 직업,진학 정보를 제공하는 드림캐쳐 chatbot 이야~!  When:Oct26'19-14:00:39 Why:~introductions.1.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Oct26'19-14:00:36 0:Oct26'19-13:59:45 F:0 P:Oct26'19-14:00:28
+Respond: user:d bot:harry ip:127.0.0.1 (~introductions) 1  d ==> 여기 와본적 있니?  When:Oct26'19-14:00:42 Why:~introductions.2.0.~control.9.0   F:1 
+Respond: user:d bot:harry ip:127.0.0.1 (~introductions) 2  응 ==> 또 왔구나!!  When:Oct26'19-14:00:43 Why:~introductions.2.1   F:1 
+Respond: user:d bot:harry ip:127.0.0.1 (~진로상담) 3  야 ==> 몇살이신가요?  When:Oct26'19-14:00:46 Why:~진로상담.0.0.~control.9.0   F:1 
+Respond: user:d bot:harry ip:127.0.0.1 (~진로상담) 4  26살 ==> 어떤 고민이 있니?  When:Oct26'19-14:00:49 Why:~진로상담.4.0.~control.9.0   F:0 
+Command: :reset
+Start: user:d bot:harry ip:127.0.0.1 rand:1545 (~introductions) 0 ==> 만나서 반가워~ 나는 직업,진학 정보를 제공하는 드림캐쳐 chatbot 이야~!  When:Oct26'19-14:00:54 Why:~introductions.1.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Oct26'19-14:00:36 0:Oct26'19-13:59:45 F:0 P:Oct26'19-14:00:49
+Respond: user:d bot:harry ip:127.0.0.1 (~introductions) 1  야 ==> 여기 와본적 있니?  When:Oct26'19-14:00:56 Why:~introductions.2.0.~control.9.0   F:0 
+Respond: user:d bot:harry ip:127.0.0.1 (~introductions) 2  응 ==> 또 왔구나!!  When:Oct26'19-14:00:57 Why:~introductions.2.1   F:0 
+Respond: user:d bot:harry ip:127.0.0.1 (~진로상담) 3  어 ==> 몇살이신가요?  When:Oct26'19-14:00:59 Why:~진로상담.0.0.~control.9.0   F:0 
+Respond: user:d bot:harry ip:127.0.0.1 (~진로상담) 4  69 ==> 어떤 고민이 있니?  When:Oct26'19-14:01:02 Why:~진로상담.4.0.~control.9.0   F:1 
+Command: :reset
+Start: user:d bot:harry ip:127.0.0.1 rand:1545 (~introductions) 0 ==> 만나서 반가워~ 나는 직업,진학 정보를 제공하는 드림캐쳐 chatbot 이야~!  When:Oct26'19-14:01:06 Why:~introductions.1.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Oct26'19-14:00:36 0:Oct26'19-13:59:45 F:0 P:Oct26'19-14:01:02
+Respond: user:d bot:harry ip:127.0.0.1 (~introductions) 1  아 ==> 여기 와본적 있니?  When:Oct26'19-14:01:10 Why:~introductions.2.0.~control.9.0   F:1 
+Respond: user:d bot:harry ip:127.0.0.1 (~introductions) 2  응 ==> 또 왔구나!!  When:Oct26'19-14:01:11 Why:~introductions.2.1   F:0 
+Respond: user:d bot:harry ip:127.0.0.1 (~진로상담) 3  으 ==> 몇살이신가요?  When:Oct26'19-14:01:14 Why:~진로상담.0.0.~control.9.0   F:1 
+Respond: user:d bot:harry ip:127.0.0.1 (~진로상담) 4  15 ==> 아, 중학생이군요. 인문계, 전문계 중 어떤 고등학교를 가고싶나요?  When:Oct26'19-14:01:16 Why:~진로상담.0.1   F:1 
+Respond: user:d bot:harry ip:127.0.0.1 (~진로상담) 5  전문계 ==> 중학교 다니면서 궁금한점 있나요?  When:Oct26'19-14:01:20 Why:~진로상담.1.0.~control.9.0   F:5 

@@ -1,0 +1,26 @@
+USERS/topic_seboddd_harry.txt
+jul2116 Oct25'19-17:32:36 0 0 |
+1 0 ~introductions !Mb &FrN3  DY 0 22 22 0 # start, input#, rejoindertopic,rejoinderid (a:  ( ~yes ) Welcome back! ),checksum
+~introductions #pending
+~introductions + 1 &FrN3 ca 0 0 0 
+#`end topics
+$cs_randindex=1466
+$cs_bot=Harry
+$cs_login=SEBOddd
+$cs_token=75726583
+$cs_control_main=~control
+$userprompt=seboddd: >
+$botprompt=HARRY: 
+$singleresponse=1
+$shutup=1
+$cs_trace=0
+$cs_time=0
+#`end variables
+0 #set flags
+#`end fact sets
+#`end user facts 0
+#context 
+#`end user
+ Welcome to ChatScript.
+ Have you been here before?
+#`end chatbot

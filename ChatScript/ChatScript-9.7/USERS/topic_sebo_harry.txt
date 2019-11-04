@@ -1,0 +1,26 @@
+USERS/topic_sebo_harry.txt
+jul2116 Oct25'19-17:32:32 Oct25'19-17:32:32 0 |
+1 1 ~introductions !Mb &FrN3  DY 0 22 22 0 # start, input#, rejoindertopic,rejoinderid (a:  ( ~yes ) Welcome back! ),checksum
+~introductions #pending
+~introductions + 1 &FrN3 ca 1 0 0 
+#`end topics
+$shutup=1
+$singleresponse=1
+$botprompt=HARRY: 
+$userprompt=sebo: >
+$cs_control_main=~control
+$cs_token=75726583
+$cs_login=SEBO
+$cs_bot=Harry
+$cs_randindex=2510
+$cs_trace=0
+$cs_time=0
+#`end variables
+0 #set flags
+#`end fact sets
+#`end user facts 0
+#context 
+ hi
+#`end user
+ Have you been here before?
+#`end chatbot

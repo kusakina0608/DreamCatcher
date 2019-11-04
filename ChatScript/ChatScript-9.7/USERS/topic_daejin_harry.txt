@@ -1,0 +1,27 @@
+USERS/topic_daejin_harry.txt
+jul2116 Oct25'19-17:19:15 Oct25'19-17:19:19 0 |
+1 1 ~introductions !Mb &FrN3  DY 0 22 22 0 # start, input#, rejoindertopic,rejoinderid (a:  ( ~yes ) Welcome back! ),checksum
+~introductions #pending
+~introductions + 1 &FrN3 ca 1 0 0 
+#`end topics
+$cs_randindex=4016
+$cs_bot=Harry
+$cs_login=Daejin
+$cs_token=75726583
+$cs_control_main=~control
+$userprompt=daejin: >
+$botprompt=HARRY: 
+$singleresponse=1
+$shutup=1
+$cs_trace=0
+$cs_time=0
+#`end variables
+0 #set flags
+#`end fact sets
+#`end user facts 0
+#context 
+ :q
+#`end user
+ Welcome to ChatScript.
+ Have you been here before?
+#`end chatbot

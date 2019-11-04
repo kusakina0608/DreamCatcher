@@ -1,0 +1,37 @@
+USERS/topic_d_harry.txt
+jul2116 Oct26'19-13:59:45 Oct26'19-14:01:20 0 |
+1 5 0 DY 0 22 22 0 # start, input#, no rejoinder, #0topics, #1topics, layer2
+~introductions ~진로상담 #pending
+~진로상담 + 1 #EW?r ma 5 0 0 
+~introductions + 1 R*QqFIs*Ok3 ca 2 0 0 
+#`end topics
+$cs_randindex=1545
+$cs_bot=Harry
+$cs_login=d
+$cs_token=75726583
+$cs_control_main=~control
+$userprompt=d: >
+$botprompt=HARRY: 
+$singleresponse=1
+$shutup=1
+$school=M
+$cs_trace=0
+$cs_time=0
+#`end variables
+0 #set flags
+#`end fact sets
+#`end user facts 0
+#context 
+ 아
+ 응
+ 으
+ 15
+ 전문계
+#`end user
+ 만나서 반가워~ 나는 직업,진학 정보를 제공하는 드림캐쳐 chatbot 이야~!
+ 여기 와본적 있니?
+ 또 왔구나!!
+ 몇살이신가요?
+ 아, 중학생이군요. 인문계, 전문계 중 어떤 고등학교를 가고싶나요?
+ 중학교 다니면서 궁금한점 있나요?
+#`end chatbot

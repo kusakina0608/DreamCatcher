@@ -1,0 +1,3 @@
+﻿Respond: user:hyerin bot:harry ip:127.0.0.1 (~introductions) 1  12 ==> Right.  When:Oct25'19-17:36:51 Why:~honest_response.45.0=GRUNT.~quibble_all.12.0   F:0 
+Respond: user:hyerin bot:harry ip:127.0.0.1 (~introductions) 2  d ==> OK.  When:Oct25'19-17:36:52 Why:~honest_response.45.0=GRUNT.~quibble_all.12.0   F:1 
+Respond: user:hyerin bot:harry ip:127.0.0.1 (~introductions) 3  d ==> Have you been here before?  When:Oct25'19-17:36:53 Why:~introductions.2.0.~control.9.0   F:1 

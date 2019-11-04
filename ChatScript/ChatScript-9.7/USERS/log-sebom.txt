@@ -1,0 +1,4 @@
+﻿Respond: user:sebom bot:harry ip:127.0.0.1 (~introductions) 1  dd ==> Have you been here before?  When:Oct25'19-17:32:04 Why:~introductions.2.0.~control.9.0   F:1 
+Respond: user:sebom bot:harry ip:127.0.0.1 (~childhood) 2  hi ==> Did you run away from home when you were little?  When:Oct25'19-17:32:27 Why:~childhood.0.0.~control.9.0   F:1 
+Respond: user:sebom bot:harry ip:127.0.0.1 (~childhood) 3  da ==> Was it fun?  When:Oct25'19-17:36:40 Why:~childhood.0.1   F:0 
+Respond: user:sebom bot:harry ip:127.0.0.1 (~childhood) 4  hi ==> I ran away once, but my parents found me and dragged me back.  When:Oct25'19-17:36:43 Why:~childhood.1.0=RUNAWAY.~control.9.0   F:0 

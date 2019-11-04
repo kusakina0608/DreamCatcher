@@ -1,0 +1,363 @@
+﻿Start: user:runray bot:harry ip:127.0.0.1 rand:774 (~introductions) 0 ==> Welcome to ChatScript.  When:Oct25'19-21:03:42 Why:~introductions.1.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Aug31'19-08:28:45 0:Oct25'19-21:03:42 F:0 P:0
+Start: user:runray bot:harry ip:127.0.0.1 rand:774 (~introductions) 0 ==> Have you been here before?  When:Oct25'19-21:03:47 Why:~introductions.2.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Aug31'19-08:28:45 0:Oct25'19-21:03:42 F:0 P:0
+Start: user:runray bot:harry ip:127.0.0.1 rand:776 (~introductions) 0 ==> Indeed.  When:Oct25'19-21:03:49 Why:~honest_response.45.0=GRUNT.~quibble_all.12.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Aug31'19-08:28:45 0:Oct25'19-21:03:42 F:0 P:0
+Start: user:runray bot:harry ip:127.0.0.1 rand:777 (~introductions) 0 ==> OK.  When:Oct25'19-21:10:33 Why:~honest_response.45.0=GRUNT.~quibble_all.12.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Aug31'19-08:28:45 0:Oct25'19-21:03:42 F:0 P:0
+Start: user:runray bot:harry ip:127.0.0.1 rand:778 (~introductions) 0 ==> Fine.  When:Oct25'19-21:11:02 Why:~honest_response.45.0=GRUNT.~quibble_all.12.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Aug31'19-08:28:45 0:Oct25'19-21:03:42 F:0 P:0
+Start: user:runray bot:harry ip: rand:780 (~childhood) 0 ==> Did you run away from home when you were little?  When:Oct25'19-21:11:23 Why:~childhood.0.0.~control.9.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Aug31'19-08:28:45 0:Oct25'19-21:03:42 F:0 P:0
+Command: :build harry reset
+Start: user:runray bot:harry ip: rand:774 (~introductions) 0 ==> Welcome to ChatScript.  When:Oct25'19-21:11:30 Why:~introductions.1.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Oct25'19-21:11:28 0:Oct25'19-21:03:42 F:0 P:0
+Respond: user:runray bot:harry ip: (~introductions) 1   ㅇ ==> Indeed.  When:Oct25'19-21:11:33 Why:~honest_response.45.0=GRUNT.~quibble_all.12.0   F:1 
+Respond: user:runray bot:harry ip: (~introductions) 2   j ==> Have you been here before?  When:Oct25'19-21:11:34 Why:~introductions.2.0.~control.9.0   F:1 
+Respond: user:runray bot:harry ip: (~kpop) 3   dj ==> 혹시 K-POP 좋아하세요?  When:Oct25'19-21:11:35 Why:~kpop.0.0.~control.9.0   F:1 
+Respond: user:runray bot:harry ip: (~kpop) 4   예 ==> I don't know what to say.  When:Oct25'19-21:11:38 Why:~control.9.0   F:1 
+Command: :build harry reset
+Start: user:runray bot:harry ip: rand:774 (~introductions) 0 ==> Welcome to ChatScript.  When:Oct25'19-21:12:09 Why:~introductions.1.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Oct25'19-21:12:08 0:Oct25'19-21:03:42 F:0 P:Oct25'19-21:11:38
+Respond: user:runray bot:harry ip: (~introductions) 1   d ==> Indeed.  When:Oct25'19-21:12:11 Why:~honest_response.45.0=GRUNT.~quibble_all.12.0   F:1 
+Respond: user:runray bot:harry ip: (~introductions) 2   d ==> Have you been here before?  When:Oct25'19-21:12:12 Why:~introductions.2.0.~control.9.0   F:1 
+Respond: user:runray bot:harry ip: (~kpop) 3   d ==> 혹시 K-POP 좋아하세요?  When:Oct25'19-21:12:12 Why:~kpop.0.0.~control.9.0   F:1 
+Respond: user:runray bot:harry ip: (~kpop) 4   yes ==> I don't know what to say.  When:Oct25'19-21:12:14 Why:~control.9.0   F:1 
+Command: :build harry reset
+Start: user:runray bot:harry ip: rand:774 (~introductions) 0 ==> Welcome to ChatScript.  When:Oct25'19-21:12:55 Why:~introductions.1.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Oct25'19-21:12:54 0:Oct25'19-21:03:42 F:0 P:Oct25'19-21:12:14
+Respond: user:runray bot:harry ip: (~introductions) 1   da ==> Have you been here before?  When:Oct25'19-21:12:57 Why:~introductions.2.0.~keywordless.2.0   F:0 
+Respond: user:runray bot:harry ip: (~kpop) 2   s ==> 혹시 K-POP 좋아하세요?  When:Oct25'19-21:12:57 Why:~kpop.0.0.~control.9.0   F:1 
+Respond: user:runray bot:harry ip: (~kpop) 3   yes ==> 그럼, 좋아하는 가수가 있어요?  When:Oct25'19-21:12:59 Why:~kpop.0.2   F:1 
+Command: :build harry rest
+Start: user:runray bot:harry ip: rand:778 (~introductions) 3 ==> Hello, again.  When:Oct25'19-21:13:52 Why:~introductions.0.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Oct25'19-21:13:50 0:Oct25'19-21:03:42 F:0 P:Oct25'19-21:12:59
+Command: :build harry reset
+Start: user:runray bot:harry ip: rand:774 (~introductions) 0 ==> Welcome to ChatScript.  When:Oct25'19-21:13:59 Why:~introductions.1.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Oct25'19-21:13:58 0:Oct25'19-21:03:42 F:0 P:Oct25'19-21:12:59
+Respond: user:runray bot:harry ip: (~introductions) 1   d ==> Indeed.  When:Oct25'19-21:14:03 Why:~honest_response.45.0=GRUNT.~quibble_all.12.0   F:1 
+Respond: user:runray bot:harry ip: (~introductions) 2   \d ==> Have you been here before?  When:Oct25'19-21:14:04 Why:~introductions.2.0.~control.9.0   F:3 
+Respond: user:runray bot:harry ip: (~kpop) 3   d ==> 혹시 K-POP 좋아하세요?  When:Oct25'19-21:14:04 Why:~kpop.0.0.~control.9.0   F:1 
+Respond: user:runray bot:harry ip: (~kpop) 4   예 정말 좋아해요 ==> 아, 그럼 우리 다른 얘기할까요?  When:Oct25'19-21:14:15 Why:~kpop.0.3   F:17 
+Command: :quit
+Exiting ChatScript via Quit
+Respond: user:runray bot:harry ip:127.0.0.1 (~kpop) 5  ㄱㄷ ==> I don't know what to say.  When:Oct26'19-13:59:19 Why:~control.9.0   F:2 
+Start: user:runray bot:harry ip:127.0.0.1 rand:780 (~introductions) 5 ==> Hi.  When:Oct26'19-13:59:19 Why:~introductions.0.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Oct25'19-21:13:58 0:Oct25'19-21:03:42 F:0 P:Oct26'19-13:59:19
+Start: user:runray bot:harry ip:127.0.0.1 rand:781 (~introductions) 5 ==> Hello, again.  When:Oct26'19-13:59:22 Why:~introductions.0.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Oct25'19-21:13:58 0:Oct25'19-21:03:42 F:0 P:Oct26'19-13:59:19
+Start: user:runray bot:harry ip:127.0.0.1 rand:782 (~introductions) 5 ==> Welcome back  When:Oct26'19-13:59:23 Why:~introductions.0.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Oct25'19-21:13:58 0:Oct25'19-21:03:42 F:0 P:Oct26'19-13:59:19
+Start: user:runray bot:harry ip:127.0.0.1 rand:783 (~introductions) 5 ==> Hi, again.  When:Oct26'19-13:59:24 Why:~introductions.0.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Oct25'19-21:13:58 0:Oct25'19-21:03:42 F:0 P:Oct26'19-13:59:19
+Start: user:runray bot:harry ip:127.0.0.1 rand:783 (~introductions) 5 ==> Glad you came back.  When:Oct26'19-13:59:25 Why:~introductions.0.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Oct25'19-21:13:58 0:Oct25'19-21:03:42 F:0 P:Oct26'19-13:59:19
+Start: user:runray bot:harry ip:127.0.0.1 rand:796 (~introductions) 5 ==> I don't know what to say.  When:Oct26'19-13:59:27 Why:~control.9.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Oct25'19-21:13:58 0:Oct25'19-21:03:42 F:0 P:Oct26'19-13:59:19
+Start: user:runray bot:harry ip:127.0.0.1 rand:796 (~introductions) 5 ==> I don't know what to say.  When:Oct26'19-13:59:28 Why:~control.9.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Oct25'19-21:13:58 0:Oct25'19-21:03:42 F:0 P:Oct26'19-13:59:19
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 6  ㅎㅇ ==> 여기 와본적 있니?  When:Oct26'19-14:16:26 Why:~introductions.2.0.~control.9.0   F:1 
+Start: user:runray bot:harry ip:127.0.0.1 rand:781 (~introductions) 6 ==> 안녕 또 왔구나!  When:Oct26'19-14:16:26 Why:~introductions.0.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Oct26'19-14:00:36 0:Oct25'19-21:03:42 F:0 P:Oct26'19-14:16:26
+Start: user:runray bot:harry ip:127.0.0.1 rand:781 (~introductions) 6 ==> 다시만나서 반가워  When:Oct26'19-14:16:27 Why:~introductions.0.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Oct26'19-14:00:36 0:Oct25'19-21:03:42 F:0 P:Oct26'19-14:16:26
+Start: user:runray bot:harry ip:127.0.0.1 rand:781 (~introductions) 6 ==> 만나서 반가워~ 나는 직업,진학 정보를 제공하는 드림캐쳐 chatbot 이야~!  When:Oct26'19-14:16:28 Why:~introductions.1.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Oct26'19-14:00:36 0:Oct25'19-21:03:42 F:0 P:Oct26'19-14:16:26
+Start: user:runray bot:harry ip:127.0.0.1 rand:786 (~진로상담) 6 ==> 몇살이신가요?  When:Oct26'19-14:16:30 Why:~진로상담.0.0.~control.9.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Oct26'19-14:00:36 0:Oct25'19-21:03:42 F:0 P:Oct26'19-14:16:26
+Start: user:runray bot:harry ip:127.0.0.1 rand:786 (~진로상담) 6 ==> 어떤 고민이 있니?  When:Oct26'19-14:16:32 Why:~진로상담.4.0.~control.9.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Oct26'19-14:00:36 0:Oct25'19-21:03:42 F:0 P:Oct26'19-14:16:26
+Start: user:runray bot:harry ip:127.0.0.1 rand:786 (~introductions) 6 ==> I don't know what to say.  When:Oct26'19-14:16:35 Why:~control.9.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Oct26'19-14:00:36 0:Oct25'19-21:03:42 F:0 P:Oct26'19-14:16:26
+Start: user:runray bot:harry ip:127.0.0.1 rand:786 (~introductions) 6 ==> I don't know what to say.  When:Oct26'19-14:16:36 Why:~control.9.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Oct26'19-14:00:36 0:Oct25'19-21:03:42 F:0 P:Oct26'19-14:16:26
+Start: user:runray bot:harry ip:127.0.0.1 rand:786 (~introductions) 6 ==> I don't know what to say.  When:Oct26'19-14:16:39 Why:~control.9.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Oct26'19-14:00:36 0:Oct25'19-21:03:42 F:0 P:Oct26'19-14:16:26
+Start: user:runray bot:harry ip:127.0.0.1 rand:786 (~introductions) 6 ==> I don't know what to say.  When:Oct26'19-14:16:40 Why:~control.9.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Oct26'19-14:00:36 0:Oct25'19-21:03:42 F:0 P:Oct26'19-14:16:26
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 7  ㅏㅓ ==> I don't know what to say.  When:Oct26'19-16:14:02 Why:~control.9.0   F:2 
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 8  ㅓ ==> I don't know what to say.  When:Oct26'19-16:14:03 Why:~control.9.0   F:1 
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 9  ㅓ ==> I don't know what to say.  When:Oct26'19-16:14:03 Why:~control.9.0   F:1 
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 10  ㅓ ==> I don't know what to say.  When:Oct26'19-16:14:04 Why:~control.9.0   F:0 
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 11  h ==> Right.  When:Oct26'19-16:14:55 Why:~honest_response.45.0=GRUNT.~quibble_all.12.0   F:1 
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 12  j ==> OK.  When:Oct26'19-16:14:56 Why:~honest_response.45.0=GRUNT.~quibble_all.12.0   F:1 
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 13  j ==> I don't know what to say.  When:Oct26'19-16:14:57 Why:~control.9.0   F:0 
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 14  k ==> I don't know what to say.  When:Oct26'19-16:14:57 Why:~control.9.0   F:1 
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 15  k ==> I don't know what to say.  When:Oct26'19-16:14:58 Why:~control.9.0   F:1 
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 16  [object Object] ==> I don't know what to say.  When:Nov02'19-12:54:20 Why:~control.9.0   F:1 
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 17  [object Object] ==> I don't know what to say.  When:Nov02'19-12:54:20 Why:~control.9.0   F:0 
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 18  [object Object] ==> OK.  When:Nov02'19-12:54:21 Why:~honest_response.45.0=GRUNT.~quibble_all.12.0   F:1 
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 19  [object Object] ==> Indeed.  When:Nov02'19-12:54:23 Why:~honest_response.45.0=GRUNT.~quibble_all.12.0   F:1 
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 20  [object Object] ==> I don't know what to say.  When:Nov02'19-12:54:26 Why:~control.9.0   F:0 
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 21  [object Object] ==> Right.  When:Nov02'19-12:54:26 Why:~honest_response.45.0=GRUNT.~quibble_all.12.0   F:1 
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 22  [object Object] ==> I don't know what to say.  When:Nov02'19-12:54:33 Why:~control.9.0   F:1 
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 23  [object Object] ==> I don't know what to say.  When:Nov02'19-12:54:36 Why:~control.9.0   F:0 
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 24  [object Object] ==> Cool.  When:Nov02'19-12:54:37 Why:~honest_response.45.0=GRUNT.~quibble_all.12.0   F:1 
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 25  [object Object] ==> I don't know what to say.  When:Nov02'19-12:54:38 Why:~control.9.0   F:1 
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 26  [object Object] ==> I don't know what to say.  When:Nov02'19-12:54:40 Why:~control.9.0   F:1 
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 27  [object Object] ==> I don't know what to say.  When:Nov02'19-12:54:41 Why:~control.9.0   F:2 
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 28  안냥 ==> I don't know what to say.  When:Nov02'19-13:01:36 Why:~control.9.0   F:2 
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 29  야 ==> I don't know what to say.  When:Nov02'19-13:01:39 Why:~control.9.0   F:1 
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 30  야 ==> I don't know what to say.  When:Nov02'19-13:01:40 Why:~control.9.0   F:1 
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 31  야 ==> I don't know what to say.  When:Nov02'19-13:01:41 Why:~control.9.0   F:0 
+Command: :build sebom reseet
+Command: :build sebom reset
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 1  야 ==> Indeed.  When:Nov02'19-13:02:27 Why:~honest_response.45.0=GRUNT.~quibble_all.12.0   F:1 
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 2  안녕 ==> 여기 와본적 있니?  When:Nov02'19-13:02:29 Why:~introductions.2.0.~control.9.0   F:2 
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 3  아니 ==> 처음이구나!!  When:Nov02'19-13:02:30 Why:~introductions.2.2   F:0 
+Respond: user:runray bot:harry ip:127.0.0.1 (~진로상담) 4  coxld ==> 몇살이신가요?  When:Nov02'19-13:04:56 Why:~진로상담.0.0.~control.9.0   F:15 
+Respond: user:runray bot:harry ip:127.0.0.1 (~진로상담) 5  안녕 ==> 어떤 고민이 있니?  When:Nov02'19-13:30:06 Why:~진로상담.4.0.~control.9.0   F:1 
+Start: user:runray bot:harry ip:127.0.0.1 rand:780 (~introductions) 5 ==> 안녕 또 왔구나!  When:Nov02'19-13:30:06 Why:~introductions.0.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-13:01:50 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-13:30:06
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 6  테스트 ==> I don't know what to say.  When:Nov02'19-13:30:11 Why:~control.9.0   F:6 
+Start: user:runray bot:harry ip:127.0.0.1 rand:781 (~introductions) 6 ==> 다시만나서 반가워  When:Nov02'19-13:30:11 Why:~introductions.0.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-13:01:50 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-13:30:11
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 7  하 ==> I don't know what to say.  When:Nov02'19-13:30:15 Why:~control.9.0   F:1 
+Start: user:runray bot:harry ip:127.0.0.1 rand:782 (~introductions) 7 ==> 만나서 반가워~ 나는 직업,진학 정보를 제공하는 드림캐쳐 chatbot 이야~!  When:Nov02'19-13:30:15 Why:~introductions.1.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-13:01:50 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-13:30:15
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 8  힘들엇다 ==> I don't know what to say.  When:Nov02'19-13:30:17 Why:~control.9.0   F:14 
+Start: user:runray bot:harry ip:127.0.0.1 rand:786 (~introductions) 8 ==> Right.  When:Nov02'19-13:30:17 Why:~honest_response.45.0=GRUNT.~quibble_all.12.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-13:01:50 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-13:30:17
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 9  ㅇ ==> I don't know what to say.  When:Nov02'19-13:30:56 Why:~control.9.0   F:0 
+Start: user:runray bot:harry ip:127.0.0.1 rand:787 (~introductions) 9 ==> OK.  When:Nov02'19-13:30:56 Why:~honest_response.45.0=GRUNT.~quibble_all.12.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-13:01:50 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-13:30:56
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 10  ㅇ ==> I don't know what to say.  When:Nov02'19-13:31:01 Why:~control.9.0   F:1 
+Start: user:runray bot:harry ip:127.0.0.1 rand:790 (~introductions) 10 ==> I don't know what to say.  When:Nov02'19-13:31:01 Why:~control.9.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-13:01:50 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-13:31:01
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 11  ㅇ ==> I don't know what to say.  When:Nov02'19-13:31:01 Why:~control.9.0   F:1 
+Start: user:runray bot:harry ip:127.0.0.1 rand:791 (~introductions) 11 ==> I don't know what to say.  When:Nov02'19-13:31:01 Why:~control.9.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-13:01:50 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-13:31:01
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 12  ㅇ ==> Cool.  When:Nov02'19-13:31:02 Why:~honest_response.45.0=GRUNT.~quibble_all.12.0   F:1 
+Start: user:runray bot:harry ip:127.0.0.1 rand:792 (~introductions) 12 ==> I don't know what to say.  When:Nov02'19-13:31:02 Why:~control.9.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-13:01:50 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-13:31:02
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 13  ㅇ ==> I don't know what to say.  When:Nov02'19-13:31:04 Why:~control.9.0   F:1 
+Start: user:runray bot:harry ip:127.0.0.1 rand:794 (~introductions) 13 ==> I don't know what to say.  When:Nov02'19-13:31:04 Why:~control.9.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-13:01:50 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-13:31:04
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 14  ㅇ ==> I don't know what to say.  When:Nov02'19-13:31:04 Why:~control.9.0   F:1 
+Start: user:runray bot:harry ip:127.0.0.1 rand:794 (~introductions) 14 ==> I don't know what to say.  When:Nov02'19-13:31:04 Why:~control.9.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-13:01:50 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-13:31:04
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 15  ㄴ ==> I don't know what to say.  When:Nov02'19-13:31:05 Why:~control.9.0   F:1 
+Start: user:runray bot:harry ip:127.0.0.1 rand:797 (~introductions) 15 ==> I don't know what to say.  When:Nov02'19-13:31:05 Why:~control.9.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-13:01:50 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-13:31:05
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 16  ㄴ ==> I don't know what to say.  When:Nov02'19-13:31:05 Why:~control.9.0   F:1 
+Start: user:runray bot:harry ip:127.0.0.1 rand:799 (~introductions) 16 ==> I don't know what to say.  When:Nov02'19-13:31:05 Why:~control.9.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-13:01:50 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-13:31:05
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 17  ㄴ ==> I don't know what to say.  When:Nov02'19-13:31:06 Why:~control.9.0   F:1 
+Start: user:runray bot:harry ip:127.0.0.1 rand:797 (~introductions) 17 ==> I don't know what to say.  When:Nov02'19-13:31:06 Why:~control.9.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-13:01:50 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-13:31:06
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 18  ㄴ ==> I don't know what to say.  When:Nov02'19-13:31:06 Why:~control.9.0   F:1 
+Start: user:runray bot:harry ip:127.0.0.1 rand:793 (~introductions) 18 ==> 안녕 또 왔구나!  When:Nov02'19-13:31:06 Why:~introductions.0.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-13:01:50 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-13:31:06
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 19  ㄴ ==> Indeed.  When:Nov02'19-13:31:07 Why:~honest_response.45.0=GRUNT.~quibble_all.12.0   F:1 
+Start: user:runray bot:harry ip:127.0.0.1 rand:794 (~introductions) 19 ==> 다시만나서 반가워  When:Nov02'19-13:31:07 Why:~introductions.0.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-13:01:50 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-13:31:07
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 20  ㄴ ==> I don't know what to say.  When:Nov02'19-13:31:07 Why:~control.9.0   F:1 
+Start: user:runray bot:harry ip:127.0.0.1 rand:795 (~introductions) 20 ==> 만나서 반가워~ 나는 직업,진학 정보를 제공하는 드림캐쳐 chatbot 이야~!  When:Nov02'19-13:31:07 Why:~introductions.1.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-13:01:50 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-13:31:07
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 21  ㄴ ==> Right.  When:Nov02'19-13:31:07 Why:~honest_response.45.0=GRUNT.~quibble_all.12.0   F:1 
+Start: user:runray bot:harry ip:127.0.0.1 rand:799 (~introductions) 21 ==> Cool.  When:Nov02'19-13:31:07 Why:~honest_response.45.0=GRUNT.~quibble_all.12.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-13:01:50 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-13:31:07
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 22  ㅇ ==> I don't know what to say.  When:Nov02'19-13:31:32 Why:~control.9.0   F:0 
+Start: user:runray bot:harry ip:127.0.0.1 rand:802 (~introductions) 22 ==> I don't know what to say.  When:Nov02'19-13:31:32 Why:~control.9.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-13:01:50 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-13:31:32
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 23  ㅇ ==> I don't know what to say.  When:Nov02'19-13:31:32 Why:~control.9.0   F:1 
+Start: user:runray bot:harry ip:127.0.0.1 rand:803 (~introductions) 23 ==> I don't know what to say.  When:Nov02'19-13:31:33 Why:~control.9.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-13:01:50 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-13:31:32
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 24  adfs ==> I don't know what to say.  When:Nov02'19-13:41:21 Why:~control.9.0   F:3 
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 25  hello ==> I don't know what to say.  When:Nov02'19-13:41:40 Why:~control.9.0   F:1 
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 26  hell low ==> I don't know what to say.  When:Nov02'19-13:41:45 Why:~control.9.0   F:1 
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 27  안녕 ==> I don't know what to say.  When:Nov02'19-13:50:54 Why:~control.9.0   F:2 
+Start: user:runray bot:harry ip:127.0.0.1 rand:805 (~introductions) 27 ==> OK.  When:Nov02'19-13:50:54 Why:~honest_response.45.0=GRUNT.~quibble_all.12.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-13:01:50 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-13:50:54
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 28  hi ==> I don't know what to say.  When:Nov02'19-13:53:38 Why:~control.9.0   F:1 
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 29  dd ==> I don't know what to say.  When:Nov02'19-13:53:41 Why:~control.9.0   F:0 
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 30  d ==> I don't know what to say.  When:Nov02'19-13:53:42 Why:~control.9.0   F:1 
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 31  d ==> I don't know what to say.  When:Nov02'19-13:53:42 Why:~control.9.0   F:0 
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 32  d ==> I don't know what to say.  When:Nov02'19-13:53:42 Why:~control.9.0   F:0 
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 33  야 ==> I don't know what to say.  When:Nov02'19-13:53:45 Why:~control.9.0   F:1 
+Start: user:runray bot:harry ip:127.0.0.1 rand:814 (~introductions) 33 ==> I don't know what to say.  When:Nov02'19-13:53:45 Why:~control.9.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-13:01:50 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-13:53:45
+Command: :build sebom reset
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 1  안냥 ==> Indeed.  When:Nov02'19-13:54:12 Why:~honest_response.45.0=GRUNT.~quibble_all.12.0   F:2 
+Start: user:runray bot:harry ip:127.0.0.1 rand:776 (~introductions) 1 ==> 다시만나서 반가워  When:Nov02'19-13:54:12 Why:~introductions.0.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-13:53:49 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-13:54:12
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 2  안녕 ==> 여기 와본적 있니?  When:Nov02'19-13:54:15 Why:~introductions.2.0.~control.9.0   F:2 
+Start: user:runray bot:harry ip:127.0.0.1 rand:777 (~introductions) 2 ==> 안녕 또 왔구나!  When:Nov02'19-13:54:15 Why:~introductions.0.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-13:53:49 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-13:54:15
+Respond: user:runray bot:harry ip:127.0.0.1 (~진로상담) 3  안녕 ==> 몇살이신가요?  When:Nov02'19-13:54:18 Why:~진로상담.0.0.~control.9.0   F:2 
+Start: user:runray bot:harry ip:127.0.0.1 rand:778 (~introductions) 3 ==> 만나서 반가워~ 나는 직업,진학 정보를 제공하는 드림캐쳐 chatbot 이야~!  When:Nov02'19-13:54:19 Why:~introductions.1.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-13:53:49 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-13:54:18
+Start: user:runray bot:harry ip:127.0.0.1 rand:782 (~진로상담) 3 ==> 어떤 고민이 있니?  When:Nov02'19-14:04:00 Why:~진로상담.4.0.~control.9.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-13:53:49 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-13:54:18
+Respond: user:runray bot:harry ip:127.0.0.1 (~진로상담) 4  안녕 ==> I don't know what to say.  When:Nov02'19-14:04:00 Why:~control.9.0   F:2 
+Respond: user:runray bot:harry ip:127.0.0.1 (~진로상담) 5  dk ==> I don't know what to say.  When:Nov02'19-14:04:40 Why:~control.9.0   F:2 
+Respond: user:runray bot:harry ip:127.0.0.1 (~진로상담) 6  안녕 ==> I don't know what to say.  When:Nov02'19-14:04:41 Why:~control.9.0   F:2 
+Start: user:runray bot:harry ip:127.0.0.1 rand:786 (~introductions) 6 ==> I don't know what to say.  When:Nov02'19-14:04:41 Why:~control.9.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-13:53:49 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:04:41
+Command: :build sebom reset
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 1  안녕 ==> Indeed.  When:Nov02'19-14:04:50 Why:~honest_response.45.0=GRUNT.~quibble_all.12.0   F:1 
+Start: user:runray bot:harry ip:127.0.0.1 rand:776 (~introductions) 1 ==> 다시만나서 반가워  When:Nov02'19-14:04:50 Why:~introductions.0.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:04:46 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:04:50
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 2  안녕 ==> 여기 와본적 있니?  When:Nov02'19-14:04:53 Why:~introductions.2.0.~control.9.0   F:2 
+Start: user:runray bot:harry ip:127.0.0.1 rand:777 (~introductions) 2 ==> 안녕 또 왔구나!  When:Nov02'19-14:04:53 Why:~introductions.0.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:04:46 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:04:53
+Respond: user:runray bot:harry ip:127.0.0.1 (~진로상담) 3  응 ==> 몇살이신가요?  When:Nov02'19-14:04:57 Why:~진로상담.0.0.~control.9.0   F:1 
+Start: user:runray bot:harry ip:127.0.0.1 rand:778 (~introductions) 3 ==> 만나서 반가워~ 나는 직업,진학 정보를 제공하는 드림캐쳐 chatbot 이야~!  When:Nov02'19-14:04:57 Why:~introductions.1.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:04:46 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:04:57
+Respond: user:runray bot:harry ip:127.0.0.1 (~진로상담) 4  안녕 ==> 어떤 고민이 있니?  When:Nov02'19-14:04:59 Why:~진로상담.4.0.~control.9.0   F:2 
+Start: user:runray bot:harry ip:127.0.0.1 rand:784 (~introductions) 4 ==> I don't know what to say.  When:Nov02'19-14:04:59 Why:~control.9.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:04:46 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:04:59
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 5  진학 ==> I don't know what to say.  When:Nov02'19-14:05:08 Why:~control.9.0   F:2 
+Start: user:runray bot:harry ip:127.0.0.1 rand:785 (~introductions) 5 ==> I don't know what to say.  When:Nov02'19-14:05:08 Why:~control.9.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:04:46 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:05:08
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 6  안녕 ==> I don't know what to say.  When:Nov02'19-14:05:10 Why:~control.9.0   F:2 
+Start: user:runray bot:harry ip:127.0.0.1 rand:786 (~introductions) 6 ==> I don't know what to say.  When:Nov02'19-14:05:10 Why:~control.9.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:04:46 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:05:10
+Command: :reset
+Start: user:runray bot:harry ip:127.0.0.1 rand:774 (~introductions) 0 ==> 만나서 반가워~ 나는 직업,진학 정보를 제공하는 드림캐쳐 chatbot 이야~!  When:Nov02'19-14:05:12 Why:~introductions.1.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:04:46 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:05:10
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 1  안녕 ==> Indeed.  When:Nov02'19-14:05:14 Why:~honest_response.45.0=GRUNT.~quibble_all.12.0   F:2 
+Start: user:runray bot:harry ip:127.0.0.1 rand:776 (~introductions) 1 ==> 다시만나서 반가워  When:Nov02'19-14:05:14 Why:~introductions.0.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:04:46 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:05:14
+Command: :reset
+Start: user:runray bot:harry ip:127.0.0.1 rand:774 (~introductions) 0 ==> 만나서 반가워~ 나는 직업,진학 정보를 제공하는 드림캐쳐 chatbot 이야~!  When:Nov02'19-14:06:26 Why:~introductions.1.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:04:46 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:05:14
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 1  안녕 ==> Indeed.  When:Nov02'19-14:06:28 Why:~honest_response.45.0=GRUNT.~quibble_all.12.0   F:2 
+Start: user:runray bot:harry ip:127.0.0.1 rand:776 (~introductions) 1 ==> 다시만나서 반가워  When:Nov02'19-14:06:28 Why:~introductions.0.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:04:46 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:06:28
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 2  ㅇ ==> 여기 와본적 있니?  When:Nov02'19-14:07:59 Why:~introductions.2.0.~control.9.0   F:1 
+Start: user:runray bot:harry ip:127.0.0.1 rand:777 (~introductions) 2 ==> 안녕 또 왔구나!  When:Nov02'19-14:07:59 Why:~introductions.0.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:04:46 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:07:59
+Respond: user:runray bot:harry ip:127.0.0.1 (~진로상담) 3  안녕 ==> 몇살이신가요?  When:Nov02'19-14:08:00 Why:~진로상담.0.0.~control.9.0   F:2 
+Start: user:runray bot:harry ip:127.0.0.1 rand:782 (~진로상담) 3 ==> 어떤 고민이 있니?  When:Nov02'19-14:08:01 Why:~진로상담.4.0.~control.9.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:04:46 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:08:00
+Respond: user:runray bot:harry ip:127.0.0.1 (~진로상담) 4  15 ==> I don't know what to say.  When:Nov02'19-14:08:03 Why:~control.9.0   F:0 
+Command: :reset
+Start: user:runray bot:harry ip:127.0.0.1 rand:774 (~introductions) 0 ==> 만나서 반가워~ 나는 직업,진학 정보를 제공하는 드림캐쳐 chatbot 이야~!  When:Nov02'19-14:08:09 Why:~introductions.1.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:04:46 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:08:03
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 1  안녕 ==> Indeed.  When:Nov02'19-14:08:11 Why:~honest_response.45.0=GRUNT.~quibble_all.12.0   F:2 
+Start: user:runray bot:harry ip:127.0.0.1 rand:776 (~introductions) 1 ==> 다시만나서 반가워  When:Nov02'19-14:08:11 Why:~introductions.0.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:04:46 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:08:11
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 2  d ==> 여기 와본적 있니?  When:Nov02'19-14:08:48 Why:~introductions.2.0.~control.9.0   F:0 
+Start: user:runray bot:harry ip:127.0.0.1 rand:777 (~introductions) 2 ==> 안녕 또 왔구나!  When:Nov02'19-14:08:48 Why:~introductions.0.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:04:46 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:08:48
+Start: user:runray bot:harry ip:127.0.0.1 rand:782 (~진로상담) 2 ==> 몇살이신가요?  When:Nov02'19-14:08:49 Why:~진로상담.0.0.~control.9.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:04:46 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:08:48
+Respond: user:runray bot:harry ip:127.0.0.1 (~진로상담) 3  ㅇ ==> 어떤 고민이 있니?  When:Nov02'19-14:08:49 Why:~진로상담.4.0.~control.9.0   F:1 
+Respond: user:runray bot:harry ip:127.0.0.1 (~진로상담) 4  안 ==> I don't know what to say.  When:Nov02'19-14:08:49 Why:~control.9.0   F:1 
+Start: user:runray bot:harry ip:127.0.0.1 rand:784 (~introductions) 4 ==> I don't know what to say.  When:Nov02'19-14:08:50 Why:~control.9.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:04:46 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:08:49
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 5  안ㄴ ==> I don't know what to say.  When:Nov02'19-14:08:50 Why:~control.9.0   F:2 
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 6  녀 ==> I don't know what to say.  When:Nov02'19-14:08:50 Why:~control.9.0   F:1 
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 7  녀 ==> I don't know what to say.  When:Nov02'19-14:08:51 Why:~control.9.0   F:1 
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 8  d ==> I don't know what to say.  When:Nov02'19-14:08:51 Why:~control.9.0   F:1 
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 9  k ==> I don't know what to say.  When:Nov02'19-14:08:51 Why:~control.9.0   F:1 
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 10  j ==> I don't know what to say.  When:Nov02'19-14:08:52 Why:~control.9.0   F:1 
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 11  j ==> Right.  When:Nov02'19-14:08:52 Why:~honest_response.45.0=GRUNT.~quibble_all.12.0   F:1 
+Start: user:runray bot:harry ip:127.0.0.1 rand:791 (~introductions) 11 ==> I don't know what to say.  When:Nov02'19-14:10:10 Why:~control.9.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:04:46 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:08:52
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 12  안녕 ==> OK.  When:Nov02'19-14:10:13 Why:~honest_response.45.0=GRUNT.~quibble_all.12.0   F:2 
+Start: user:runray bot:harry ip:127.0.0.1 rand:792 (~introductions) 12 ==> I don't know what to say.  When:Nov02'19-14:10:13 Why:~control.9.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:04:46 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:10:13
+Command: :reset
+Start: user:runray bot:harry ip:127.0.0.1 rand:774 (~introductions) 0 ==> 만나서 반가워~ 나는 직업,진학 정보를 제공하는 드림캐쳐 chatbot 이야~!  When:Nov02'19-14:10:16 Why:~introductions.1.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:04:46 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:10:13
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 1  안녕 ==> Indeed.  When:Nov02'19-14:10:18 Why:~honest_response.45.0=GRUNT.~quibble_all.12.0   F:2 
+Start: user:runray bot:harry ip:127.0.0.1 rand:776 (~introductions) 1 ==> 다시만나서 반가워  When:Nov02'19-14:10:18 Why:~introductions.0.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:04:46 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:10:18
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 2  하잉 ==> 여기 와본적 있니?  When:Nov02'19-14:10:20 Why:~introductions.2.0.~control.9.0   F:2 
+Start: user:runray bot:harry ip:127.0.0.1 rand:777 (~introductions) 2 ==> 안녕 또 왔구나!  When:Nov02'19-14:10:20 Why:~introductions.0.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:04:46 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:10:20
+Respond: user:runray bot:harry ip:127.0.0.1 (~진로상담) 3  응 ==> 몇살이신가요?  When:Nov02'19-14:10:22 Why:~진로상담.0.0.~control.9.0   F:1 
+Start: user:runray bot:harry ip:127.0.0.1 rand:782 (~진로상담) 3 ==> 어떤 고민이 있니?  When:Nov02'19-14:10:22 Why:~진로상담.4.0.~control.9.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:04:46 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:10:22
+Respond: user:runray bot:harry ip:127.0.0.1 (~진로상담) 4  15 ==> I don't know what to say.  When:Nov02'19-14:10:24 Why:~control.9.0   F:1 
+Command: :reset
+Start: user:runray bot:harry ip:127.0.0.1 rand:774 (~introductions) 0 ==> 만나서 반가워~ 나는 직업,진학 정보를 제공하는 드림캐쳐 chatbot 이야~!  When:Nov02'19-14:10:28 Why:~introductions.1.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:04:46 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:10:24
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 1  안녕 ==> Indeed.  When:Nov02'19-14:10:30 Why:~honest_response.45.0=GRUNT.~quibble_all.12.0   F:2 
+Start: user:runray bot:harry ip:127.0.0.1 rand:776 (~introductions) 1 ==> 다시만나서 반가워  When:Nov02'19-14:10:30 Why:~introductions.0.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:04:46 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:10:30
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 2  나도 ==> 여기 와본적 있니?  When:Nov02'19-14:10:31 Why:~introductions.2.0.~control.9.0   F:1 
+Start: user:runray bot:harry ip:127.0.0.1 rand:777 (~introductions) 2 ==> 안녕 또 왔구나!  When:Nov02'19-14:10:32 Why:~introductions.0.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:04:46 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:10:31
+Respond: user:runray bot:harry ip:127.0.0.1 (~진로상담) 3  응 ==> 몇살이신가요?  When:Nov02'19-14:10:33 Why:~진로상담.0.0.~control.9.0   F:1 
+Start: user:runray bot:harry ip:127.0.0.1 rand:782 (~진로상담) 3 ==> 어떤 고민이 있니?  When:Nov02'19-14:10:33 Why:~진로상담.4.0.~control.9.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:04:46 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:10:33
+Respond: user:runray bot:harry ip:127.0.0.1 (~진로상담) 4  진로 ==> I don't know what to say.  When:Nov02'19-14:10:35 Why:~control.9.0   F:2 
+Start: user:runray bot:harry ip:127.0.0.1 rand:784 (~introductions) 4 ==> I don't know what to say.  When:Nov02'19-14:10:35 Why:~control.9.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:04:46 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:10:35
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 5  안녕 ==> I don't know what to say.  When:Nov02'19-14:13:40 Why:~control.9.0   F:2 
+Start: user:runray bot:harry ip:127.0.0.1 rand:785 (~introductions) 5 ==> I don't know what to say.  When:Nov02'19-14:13:40 Why:~control.9.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:04:46 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:13:40
+Command: :reset
+Start: user:runray bot:harry ip:127.0.0.1 rand:774 (~introductions) 0 ==> 만나서 반가워~ 나는 직업,진학 정보를 제공하는 드림캐쳐 chatbot 이야~!  When:Nov02'19-14:13:43 Why:~introductions.1.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:04:46 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:13:40
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 1  안녕 ==> Indeed.  When:Nov02'19-14:13:45 Why:~honest_response.45.0=GRUNT.~quibble_all.12.0   F:1 
+Start: user:runray bot:harry ip:127.0.0.1 rand:776 (~introductions) 1 ==> 다시만나서 반가워  When:Nov02'19-14:13:45 Why:~introductions.0.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:04:46 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:13:45
+Command: :reset
+Start: user:runray bot:harry ip:127.0.0.1 rand:774 (~introductions) 0 ==> 만나서 반가워~ 나는 직업,진학 정보를 제공하는 드림캐쳐 chatbot 이야~!  When:Nov02'19-14:15:03 Why:~introductions.1.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:04:46 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:13:45
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 1  안녕 ==> Indeed.  When:Nov02'19-14:15:05 Why:~honest_response.45.0=GRUNT.~quibble_all.12.0   F:2 
+Start: user:runray bot:harry ip:127.0.0.1 rand:776 (~introductions) 1 ==> 다시만나서 반가워  When:Nov02'19-14:15:05 Why:~introductions.0.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:04:46 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:15:05
+Command: :build sebom reset
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 1  안녕 ==> Indeed.  When:Nov02'19-14:16:16 Why:~honest_response.45.0=GRUNT.~quibble_all.12.0   F:2 
+Start: user:runray bot:harry ip:127.0.0.1 rand:776 (~introductions) 1 ==> 다시만나서 반가워  When:Nov02'19-14:16:17 Why:~introductions.0.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:16:12 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:16:16
+Command: :reset
+Start: user:runray bot:harry ip:127.0.0.1 rand:774 (~introductions) 0 ==> 만나서 반가워~ 나는 직업,진학 정보를 제공하는 드림캐쳐 chatbot 이야~!  When:Nov02'19-14:16:19 Why:~introductions.1.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:16:12 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:16:16
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 1  ㅇ ==> Indeed.  When:Nov02'19-14:16:20 Why:~honest_response.45.0=GRUNT.~quibble_all.12.0   F:1 
+Start: user:runray bot:harry ip:127.0.0.1 rand:776 (~introductions) 1 ==> 다시만나서 반가워  When:Nov02'19-14:16:21 Why:~introductions.0.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:16:12 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:16:20
+Command: :reset
+Start: user:runray bot:harry ip:127.0.0.1 rand:774 (~introductions) 0 ==> 만나서 반가워~ 나는 직업,진학 정보를 제공하는 드림캐쳐 chatbot 이야~!  When:Nov02'19-14:17:25 Why:~introductions.1.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:16:12 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:16:20
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 1  안녕 ==> Indeed.  When:Nov02'19-14:17:28 Why:~honest_response.45.0=GRUNT.~quibble_all.12.0   F:3 
+Start: user:runray bot:harry ip:127.0.0.1 rand:776 (~introductions) 1 ==> 다시만나서 반가워  When:Nov02'19-14:17:28 Why:~introductions.0.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:16:12 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:17:28
+Command: :reset
+Start: user:runray bot:harry ip:127.0.0.1 rand:774 (~introductions) 0 ==> 만나서 반가워~ 나는 직업,진학 정보를 제공하는 드림캐쳐 chatbot 이야~!  When:Nov02'19-14:18:52 Why:~introductions.1.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:16:12 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:17:28
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 1  안녕 ==> Indeed.  When:Nov02'19-14:18:53 Why:~honest_response.45.0=GRUNT.~quibble_all.12.0   F:2 
+Start: user:runray bot:harry ip:127.0.0.1 rand:776 (~introductions) 1 ==> 다시만나서 반가워  When:Nov02'19-14:18:53 Why:~introductions.0.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:16:12 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:18:53
+Command: :reset
+Start: user:runray bot:harry ip:127.0.0.1 rand:774 (~introductions) 0 ==> 만나서 반가워~ 나는 직업,진학 정보를 제공하는 드림캐쳐 chatbot 이야~!  When:Nov02'19-14:19:23 Why:~introductions.1.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:16:12 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:18:53
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 1  안녕 ==> Indeed.  When:Nov02'19-14:19:30 Why:~honest_response.45.0=GRUNT.~quibble_all.12.0   F:2 
+Start: user:runray bot:harry ip:127.0.0.1 rand:776 (~introductions) 1 ==> 다시만나서 반가워  When:Nov02'19-14:19:30 Why:~introductions.0.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:16:12 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:19:30
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 2  안녕 ==> 여기 와본적 있니?  When:Nov02'19-14:20:20 Why:~introductions.2.0.~control.9.0   F:2 
+Start: user:runray bot:harry ip:127.0.0.1 rand:777 (~introductions) 2 ==> 안녕 또 왔구나!  When:Nov02'19-14:20:20 Why:~introductions.0.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:16:12 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:20:20
+Command: :build sebom reset
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 1  안녕 ==> Indeed.  When:Nov02'19-14:20:28 Why:~honest_response.45.0=GRUNT.~quibble_all.12.0   F:2 
+Start: user:runray bot:harry ip:127.0.0.1 rand:776 (~introductions) 1 ==> 다시만나서 반가워  When:Nov02'19-14:20:28 Why:~introductions.0.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:20:25 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:20:28
+Command: :build harry reset
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 1  안녕 ==> Indeed.  When:Nov02'19-14:25:51 Why:~honest_response.45.0=GRUNT.~quibble_all.12.0   F:2 
+Start: user:runray bot:harry ip:127.0.0.1 rand:775 (~introductions) 1 ==> 만나서 반가워~ 나는 직업,진학 정보를 제공하는 드림캐쳐 chatbot 이야~!  When:Nov02'19-14:25:51 Why:~introductions.0.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:25:46 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:25:51
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 2  안녕 ==> 여기 와본적 있니?  When:Nov02'19-14:35:36 Why:~introductions.1.0.~control.9.0   F:7 
+Start: user:runray bot:harry ip:127.0.0.1 rand:779 (~진로상담) 2 ==> 몇살이신가요?  When:Nov02'19-14:35:36 Why:~진로상담.0.0.~control.9.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:25:46 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:35:36
+Command: :build sebom reset
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 1  안녕 ==> Indeed.  When:Nov02'19-14:35:45 Why:~honest_response.45.0=GRUNT.~quibble_all.12.0   F:3 
+Start: user:runray bot:harry ip:127.0.0.1 rand:775 (~introductions) 1 ==> 만나서 반가워~ 나는 직업,진학 정보를 제공하는 드림캐쳐 chatbot 이야~!  When:Nov02'19-14:35:45 Why:~introductions.0.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:35:41 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:35:45
+Command: :build sebom reset
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 1  안녕 ==> Indeed.  When:Nov02'19-14:37:23 Why:~honest_response.45.0=GRUNT.~quibble_all.12.0   F:2 
+Start: user:runray bot:harry ip:127.0.0.1 rand:775 (~introductions) 1 ==> 만나서 반가워~ 나는 직업,진학 정보를 제공하는 드림캐쳐 chatbot 이야~!  When:Nov02'19-14:37:23 Why:~introductions.0.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:37:19 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:37:23
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 2  응 ==> 여기 와본적 있니?  When:Nov02'19-14:37:25 Why:~introductions.1.0.~control.9.0   F:0 
+Start: user:runray bot:harry ip:127.0.0.1 rand:779 (~진로상담) 2 ==> 몇살이신가요?  When:Nov02'19-14:37:25 Why:~진로상담.0.0.~control.9.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:37:19 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:37:25
+Respond: user:runray bot:harry ip:127.0.0.1 (~진로상담) 3  16 ==> 아, 중학생이군요. 인문계, 전문계 중 어떤 고등학교를 가고싶나요?  When:Nov02'19-14:37:27 Why:~진로상담.0.3   F:1 
+Respond: user:runray bot:harry ip:127.0.0.1 (~진로상담) 4  응 ==> 중학교 다니면서 궁금한점 있나요?  When:Nov02'19-14:37:30 Why:~진로상담.1.0.~control.9.0   F:0 
+Start: user:runray bot:harry ip:127.0.0.1 rand:780 (~진로상담) 4 ==> 어떤 고민이 있니?  When:Nov02'19-14:37:30 Why:~진로상담.4.0.~control.9.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:37:19 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:37:30
+Command: :reset
+Start: user:runray bot:harry ip:127.0.0.1 rand:774 (~introductions) 0 ==> 만나서 반가워~ 나는 직업,진학 정보를 제공하는 드림캐쳐 chatbot 이야~!  When:Nov02'19-14:37:34 Why:~introductions.0.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:37:19 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:37:30
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 1  안녕 ==> Indeed.  When:Nov02'19-14:37:37 Why:~honest_response.45.0=GRUNT.~quibble_all.12.0   F:2 
+Start: user:runray bot:harry ip:127.0.0.1 rand:775 (~introductions) 1 ==> 여기 와본적 있니?  When:Nov02'19-14:37:37 Why:~introductions.1.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:37:19 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:37:37
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 2  응 ==> 또 왔구나!!  When:Nov02'19-14:37:52 Why:~introductions.1.1   F:0 
+Start: user:runray bot:harry ip:127.0.0.1 rand:779 (~진로상담) 2 ==> 몇살이신가요?  When:Nov02'19-14:37:52 Why:~진로상담.0.0.~control.9.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:37:19 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:37:52
+Respond: user:runray bot:harry ip:127.0.0.1 (~진로상담) 3  16 ==> 아, 중학생이군요. 인문계, 전문계 중 어떤 고등학교를 가고싶나요?  When:Nov02'19-14:37:55 Why:~진로상담.0.3   F:1 
+Command: :reset
+Start: user:runray bot:harry ip:127.0.0.1 rand:774 (~introductions) 0 ==> 만나서 반가워~ 나는 직업,진학 정보를 제공하는 드림캐쳐 chatbot 이야~!  When:Nov02'19-14:38:20 Why:~introductions.0.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:37:19 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:37:55
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 1  안녕 ==> Indeed.  When:Nov02'19-14:38:33 Why:~honest_response.45.0=GRUNT.~quibble_all.12.0   F:2 
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 2  아 ==> 여기 와본적 있니?  When:Nov02'19-14:38:37 Why:~introductions.1.0.~control.9.0   F:0 
+Start: user:runray bot:harry ip:127.0.0.1 rand:779 (~진로상담) 2 ==> 몇살이신가요?  When:Nov02'19-14:38:37 Why:~진로상담.0.0.~control.9.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:37:19 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:38:37
+Respond: user:runray bot:harry ip:127.0.0.1 (~진로상담) 3  16 ==> 아, 중학생이군요. 인문계, 전문계 중 어떤 고등학교를 가고싶나요?  When:Nov02'19-14:38:42 Why:~진로상담.0.3   F:0 
+Respond: user:runray bot:harry ip:127.0.0.1 (~진로상담) 4  인문계 ==> 인문계 학교를 간다면 문과, 이과를 선택하게 될꺼에요  When:Nov02'19-14:38:47 Why:~진로상담.0.4   F:6 
+Start: user:runray bot:harry ip:127.0.0.1 rand:780 (~진로상담) 4 ==> 중학교 다니면서 궁금한점 있나요?  When:Nov02'19-14:38:47 Why:~진로상담.1.0.~control.9.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:37:19 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:38:47
+Start: user:runray bot:harry ip:127.0.0.1 rand:780 (~진로상담) 4 ==> 어떤 고민이 있니?  When:Nov02'19-14:39:34 Why:~진로상담.4.0.~control.9.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:37:19 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:38:47
+Respond: user:runray bot:harry ip:127.0.0.1 (~진로상담) 5  아 ==> I don't know what to say.  When:Nov02'19-14:39:34 Why:~control.9.0   F:1 
+Respond: user:runray bot:harry ip:127.0.0.1 (~진로상담) 6  reset ==> I don't know what to say.  When:Nov02'19-14:39:36 Why:~control.9.0   F:1 
+Command: :reset
+Start: user:runray bot:harry ip:127.0.0.1 rand:774 (~introductions) 0 ==> 만나서 반가워~ 나는 직업,진학 정보를 제공하는 드림캐쳐 chatbot 이야~!  When:Nov02'19-14:39:39 Why:~introductions.0.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:37:19 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:39:36
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 1  안녕 ==> Indeed.  When:Nov02'19-14:39:40 Why:~honest_response.45.0=GRUNT.~quibble_all.12.0   F:2 
+Start: user:runray bot:harry ip:127.0.0.1 rand:775 (~introductions) 1 ==> 여기 와본적 있니?  When:Nov02'19-14:39:40 Why:~introductions.1.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:37:19 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:39:40
+Start: user:runray bot:harry ip:127.0.0.1 rand:777 (~진로상담) 1 ==> 몇살이신가요?  When:Nov02'19-14:40:29 Why:~진로상담.0.0.~control.9.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:37:19 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:39:40
+Respond: user:runray bot:harry ip:127.0.0.1 (~진로상담) 2  안녕 ==> 어떤 고민이 있니?  When:Nov02'19-14:40:29 Why:~진로상담.4.0.~control.9.0   F:1 
+Command: :reset
+Start: user:runray bot:harry ip:127.0.0.1 rand:774 (~introductions) 0 ==> 만나서 반가워~ 나는 직업,진학 정보를 제공하는 드림캐쳐 chatbot 이야~!  When:Nov02'19-14:40:31 Why:~introductions.0.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:37:19 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:40:29
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 1  집착하지마 ==> Indeed.  When:Nov02'19-14:40:33 Why:~honest_response.45.0=GRUNT.~quibble_all.12.0   F:25 
+Start: user:runray bot:harry ip:127.0.0.1 rand:775 (~introductions) 1 ==> 여기 와본적 있니?  When:Nov02'19-14:40:33 Why:~introductions.1.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:37:19 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:40:33
+Respond: user:runray bot:harry ip:127.0.0.1 (~진로상담) 2  나이에 집착하지마 ==> 몇살이신가요?  When:Nov02'19-14:40:37 Why:~진로상담.0.0.~control.9.0   F:31 
+Start: user:runray bot:harry ip:127.0.0.1 rand:779 (~진로상담) 2 ==> 어떤 고민이 있니?  When:Nov02'19-14:40:37 Why:~진로상담.4.0.~control.9.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:37:19 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:40:37
+Command: :reset
+Start: user:runray bot:harry ip:127.0.0.1 rand:774 (~introductions) 0 ==> 만나서 반가워~ 나는 직업,진학 정보를 제공하는 드림캐쳐 chatbot 이야~!  When:Nov02'19-14:41:12 Why:~introductions.0.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:37:19 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:40:37
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 1  안녕 ==> Indeed.  When:Nov02'19-14:41:15 Why:~honest_response.45.0=GRUNT.~quibble_all.12.0   F:2 
+Start: user:runray bot:harry ip:127.0.0.1 rand:775 (~introductions) 1 ==> 여기 와본적 있니?  When:Nov02'19-14:41:15 Why:~introductions.1.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:37:19 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:41:15
+Respond: user:runray bot:harry ip:127.0.0.1 (~진로상담) 2  돼지냄새 개역겹네 ==> 몇살이신가요?  When:Nov02'19-14:42:08 Why:~진로상담.0.0.~control.9.0   F:24 
+Start: user:runray bot:harry ip:127.0.0.1 rand:779 (~진로상담) 2 ==> 어떤 고민이 있니?  When:Nov02'19-14:42:08 Why:~진로상담.4.0.~control.9.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:37:19 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:42:08
+Command: :reset
+Start: user:runray bot:harry ip:127.0.0.1 rand:774 (~introductions) 0 ==> 만나서 반가워~ 나는 직업,진학 정보를 제공하는 드림캐쳐 chatbot 이야~!  When:Nov02'19-14:42:11 Why:~introductions.0.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:37:19 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:42:08
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 1  안녕 ==> Indeed.  When:Nov02'19-14:42:14 Why:~honest_response.45.0=GRUNT.~quibble_all.12.0   F:2 
+Start: user:runray bot:harry ip:127.0.0.1 rand:775 (~introductions) 1 ==> 여기 와본적 있니?  When:Nov02'19-14:42:14 Why:~introductions.1.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:37:19 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:42:14
+Command: :reset
+Start: user:runray bot:harry ip:127.0.0.1 rand:774 (~introductions) 0 ==> 만나서 반가워~ 나는 직업,진학 정보를 제공하는 드림캐쳐 chatbot 이야~!  When:Nov02'19-14:43:00 Why:~introductions.0.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:37:19 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:42:14
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 1  안녕 ==> Indeed.  When:Nov02'19-14:43:01 Why:~honest_response.45.0=GRUNT.~quibble_all.12.0   F:2 
+Start: user:runray bot:harry ip:127.0.0.1 rand:775 (~introductions) 1 ==> 여기 와본적 있니?  When:Nov02'19-14:43:01 Why:~introductions.1.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:37:19 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:43:01
+Respond: user:runray bot:harry ip:127.0.0.1 (~진로상담) 2  앙 해결했띠 ==> 몇살이신가요?  When:Nov02'19-14:44:52 Why:~진로상담.0.0.~control.9.0   F:10 
+Start: user:runray bot:harry ip:127.0.0.1 rand:779 (~진로상담) 2 ==> 어떤 고민이 있니?  When:Nov02'19-14:44:52 Why:~진로상담.4.0.~control.9.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:37:19 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:44:52
+Respond: user:runray bot:harry ip:127.0.0.1 (~진로상담) 3  reset ==> I don't know what to say.  When:Nov02'19-14:44:54 Why:~control.9.0   F:1 
+Command: :reset
+Start: user:runray bot:harry ip:127.0.0.1 rand:774 (~introductions) 0 ==> 만나서 반가워~ 나는 직업,진학 정보를 제공하는 드림캐쳐 chatbot 이야~!  When:Nov02'19-14:44:55 Why:~introductions.0.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:37:19 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:44:54
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 1  안녕 ==> Indeed.  When:Nov02'19-14:44:56 Why:~honest_response.45.0=GRUNT.~quibble_all.12.0   F:2 
+Start: user:runray bot:harry ip:127.0.0.1 rand:775 (~introductions) 1 ==> 여기 와본적 있니?  When:Nov02'19-14:44:56 Why:~introductions.1.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:37:19 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:44:56
+Command: :reset
+Start: user:runray bot:harry ip:127.0.0.1 rand:774 (~introductions) 0 ==> 만나서 반가워~ 나는 직업,진학 정보를 제공하는 드림캐쳐 chatbot 이야~!  When:Nov02'19-14:46:16 Why:~introductions.0.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:37:19 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:44:56
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 1  안녕 ==> Indeed.  When:Nov02'19-14:46:17 Why:~honest_response.45.0=GRUNT.~quibble_all.12.0   F:2 
+Start: user:runray bot:harry ip:127.0.0.1 rand:775 (~introductions) 1 ==> 여기 와본적 있니?  When:Nov02'19-14:46:17 Why:~introductions.1.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:37:19 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:46:17
+Command: :reset
+Start: user:runray bot:harry ip:127.0.0.1 rand:774 (~introductions) 0 ==> 만나서 반가워~ 나는 직업,진학 정보를 제공하는 드림캐쳐 chatbot 이야~!  When:Nov02'19-14:47:45 Why:~introductions.0.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:37:19 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:46:17
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 1  안녕 ==> Indeed.  When:Nov02'19-14:47:46 Why:~honest_response.45.0=GRUNT.~quibble_all.12.0   F:2 
+Start: user:runray bot:harry ip:127.0.0.1 rand:775 (~introductions) 1 ==> 여기 와본적 있니?  When:Nov02'19-14:47:46 Why:~introductions.1.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:37:19 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:47:46
+Command: :reset
+Start: user:runray bot:harry ip:127.0.0.1 rand:774 (~introductions) 0 ==> 만나서 반가워~ 나는 직업,진학 정보를 제공하는 드림캐쳐 chatbot 이야~!  When:Nov02'19-14:47:55 Why:~introductions.0.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:37:19 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:47:46
+Command: :reset
+Start: user:runray bot:harry ip:127.0.0.1 rand:774 (~introductions) 0 ==> 만나서 반가워~ 나는 직업,진학 정보를 제공하는 드림캐쳐 chatbot 이야~!  When:Nov02'19-14:47:57 Why:~introductions.0.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:37:19 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:47:46
+Command: :reset
+Start: user:runray bot:harry ip:127.0.0.1 rand:774 (~introductions) 0 ==> 만나서 반가워~ 나는 직업,진학 정보를 제공하는 드림캐쳐 chatbot 이야~!  When:Nov02'19-14:48:04 Why:~introductions.0.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:37:19 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:47:46
+Command: :reset
+Start: user:runray bot:harry ip:127.0.0.1 rand:774 (~introductions) 0 ==> 만나서 반가워~ 나는 직업,진학 정보를 제공하는 드림캐쳐 chatbot 이야~!  When:Nov02'19-14:48:06 Why:~introductions.0.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:37:19 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:47:46
+Command: :reset
+Start: user:runray bot:harry ip:127.0.0.1 rand:774 (~introductions) 0 ==> 만나서 반가워~ 나는 직업,진학 정보를 제공하는 드림캐쳐 chatbot 이야~!  When:Nov02'19-14:48:08 Why:~introductions.0.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:37:19 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:47:46
+Command: :reset
+Start: user:runray bot:harry ip:127.0.0.1 rand:774 (~introductions) 0 ==> 만나서 반가워~ 나는 직업,진학 정보를 제공하는 드림캐쳐 chatbot 이야~!  When:Nov02'19-14:48:10 Why:~introductions.0.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:37:19 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:47:46
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 1  안녕 ==> Indeed.  When:Nov02'19-14:48:12 Why:~honest_response.45.0=GRUNT.~quibble_all.12.0   F:2 
+Start: user:runray bot:harry ip:127.0.0.1 rand:775 (~introductions) 1 ==> 여기 와본적 있니?  When:Nov02'19-14:48:12 Why:~introductions.1.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:37:19 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:48:12
+Command: :reset
+Start: user:runray bot:harry ip:127.0.0.1 rand:774 (~introductions) 0 ==> 만나서 반가워~ 나는 직업,진학 정보를 제공하는 드림캐쳐 chatbot 이야~!  When:Nov02'19-14:49:13 Why:~introductions.0.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:37:19 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:48:12
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 1  안녕 ==> Indeed.  When:Nov02'19-14:49:14 Why:~honest_response.45.0=GRUNT.~quibble_all.12.0   F:2 
+Start: user:runray bot:harry ip:127.0.0.1 rand:775 (~introductions) 1 ==> 여기 와본적 있니?  When:Nov02'19-14:49:14 Why:~introductions.1.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:37:19 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:49:14
+Command: :reset
+Start: user:runray bot:harry ip:127.0.0.1 rand:774 (~introductions) 0 ==> 만나서 반가워~ 나는 직업,진학 정보를 제공하는 드림캐쳐 chatbot 이야~!  When:Nov02'19-14:49:24 Why:~introductions.0.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:37:19 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:49:14
+Command: :reset
+Start: user:runray bot:harry ip:127.0.0.1 rand:774 (~introductions) 0 ==> 만나서 반가워~ 나는 직업,진학 정보를 제공하는 드림캐쳐 chatbot 이야~!  When:Nov02'19-14:49:28 Why:~introductions.0.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:37:19 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:49:14
+Command: :reset
+Start: user:runray bot:harry ip:127.0.0.1 rand:774 (~introductions) 0 ==> 만나서 반가워~ 나는 직업,진학 정보를 제공하는 드림캐쳐 chatbot 이야~!  When:Nov02'19-14:49:30 Why:~introductions.0.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:37:19 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:49:14
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 1  hello ==> 여기 와본적 있니?  When:Nov02'19-14:49:34 Why:~introductions.1.0.~control.9.0   F:0 
+Respond: user:runray bot:harry ip:127.0.0.1 (~진로상담) 2  dkssud ==> 몇살이신가요?  When:Nov02'19-14:49:38 Why:~진로상담.0.0.~control.9.0   F:24 
+Respond: user:runray bot:harry ip:127.0.0.1 (~진로상담) 3  dlssk ==> 어떤 고민이 있니?  When:Nov02'19-14:49:41 Why:~진로상담.4.0.~control.9.0   F:17 
+Respond: user:runray bot:harry ip:127.0.0.1 (~진로상담) 4  안녕 ==> I don't know what to say.  When:Nov02'19-14:49:48 Why:~control.9.0   F:2 
+Start: user:runray bot:harry ip:127.0.0.1 rand:780 (~introductions) 4 ==> I don't know what to say.  When:Nov02'19-14:49:48 Why:~control.9.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:37:19 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:49:48
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 5  안녕 ==> I don't know what to say.  When:Nov02'19-14:51:05 Why:~control.9.0   F:2 
+Command: :reset
+Start: user:runray bot:harry ip:127.0.0.1 rand:774 (~introductions) 0 ==> 만나서 반가워~ 나는 직업,진학 정보를 제공하는 드림캐쳐 chatbot 이야~!  When:Nov02'19-14:51:08 Why:~introductions.0.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:37:19 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:51:05
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 1  안녕 ==> Indeed.  When:Nov02'19-14:51:10 Why:~honest_response.45.0=GRUNT.~quibble_all.12.0   F:2 
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 2  안녕 ==> 여기 와본적 있니?  When:Nov02'19-14:51:13 Why:~introductions.1.0.~control.9.0   F:1 
+Command: :build sebom reset
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 1  안녕 ==> Indeed.  When:Nov02'19-14:51:52 Why:~honest_response.45.0=GRUNT.~quibble_all.12.0   F:2 
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 2  야 ==> 여기 와본적 있니?  When:Nov02'19-14:51:54 Why:~introductions.1.0.~control.9.0   F:1 
+Respond: user:runray bot:harry ip:127.0.0.1 (~introductions) 3  응 ==> 또 왔구나!!  When:Nov02'19-14:51:55 Why:~introductions.1.1   F:1 
+Respond: user:runray bot:harry ip:127.0.0.1 (~진로상담) 4  맞아 ==> 몇살이신가요?  When:Nov02'19-14:51:57 Why:~진로상담.0.0.~control.9.0   F:1 
+Respond: user:runray bot:harry ip:127.0.0.1 (~진로상담) 5  99 ==> 어떤 고민이 있니?  When:Nov02'19-14:52:00 Why:~진로상담.4.0.~control.9.0   F:1 
+Respond: user:runray bot:harry ip:127.0.0.1 (~진로상담) 6  이제 갈거같은데 장례식 올 친구들이 없어( 다 먼저 갔음) ==> I don't know what to say.  When:Nov02'19-14:52:15 Why:~control.9.0   F:49 
+Command: :reset
+Start: user:runray bot:harry ip:127.0.0.1 rand:774 (~introductions) 0 ==> 만나서 반가워~ 나는 직업,진학 정보를 제공하는 드림캐쳐 chatbot 이야~!  When:Nov02'19-14:54:19 Why:~introductions.0.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:51:38 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:52:15
+Command: :reset
+Start: user:runray bot:harry ip:127.0.0.1 rand:774 (~introductions) 0 ==> 만나서 반가워~ 나는 직업,진학 정보를 제공하는 드림캐쳐 chatbot 이야~!  When:Nov02'19-15:31:23 Why:~introductions.0.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-14:51:38 0:Oct25'19-21:03:42 F:1572074098-3.9.0 P:Nov02'19-14:52:15

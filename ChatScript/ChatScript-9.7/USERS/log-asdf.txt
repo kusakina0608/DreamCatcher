@@ -1,0 +1,2 @@
+﻿Respond: user:asdf bot:harry ip:127.0.0.1 (~introductions) 1  fdsa ==> 여기 와본적 있니?  When:Nov02'19-12:51:56 Why:~introductions.2.0.~control.9.0   F:9 
+Respond: user:asdf bot:harry ip:127.0.0.1 (~진로상담) 2  fdas ==> 몇살이신가요?  When:Nov02'19-12:51:59 Why:~진로상담.0.0.~control.9.0   F:1 

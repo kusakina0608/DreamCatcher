@@ -1,0 +1,39 @@
+USERS/topic_ff_harry.txt
+jul2116 Oct25'19-19:45:42 Oct25'19-19:45:42 0 |
+2 1 0 DY 0 22 22 0 # start, input#, no rejoinder, #0topics, #1topics, layer2
+~introductions ~childhood #pending
+~childhood + 2 DDso2 piaa 1 0 0 
+~introductions + 1 &FrN3 ca 1 0 0 
+#`end topics
+$shutup=1
+$singleresponse=1
+$botprompt=HARRY: 
+$userprompt=ff: >
+$cs_control_main=~control
+$cs_token=75726583
+$cs_login=ff
+$cs_bot=Harry
+$cs_randindex=2001
+$cs_trace=0
+$cs_time=0
+#`end variables
+0 #set flags
+#`end fact sets
+#`end user facts 0
+#context ~honest_response 1 GRUNT ~childhood 1 RUNAWAY ~childhood 1 SCARE 
+ ff
+#`end user
+ Fine.
+ Hi.
+ Welcome back
+ Hello, again.
+ Glad you came back.
+ Hi, again.
+ Welcome to ChatScript.
+ Have you been here before?
+ Did you run away from home when you were little?
+ I ran away once, but my parents found me and dragged me back.
+ What scared you as a kid?
+ I was scared of machines. I had vivid dreams of the Terminator robots.
+ Did you have a happy childhood?
+#`end chatbot

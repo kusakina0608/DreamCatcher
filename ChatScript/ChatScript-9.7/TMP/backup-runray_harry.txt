@@ -1,0 +1,32 @@
+﻿USERS/topic_runray_harry.txt
+jul2116 Oct25'19-21:03:42 Oct25'19-21:14:04 0 |
+1 3 ~kpop ZMb LbjER  DY 0 22 22 0 # start, input#, rejoindertopic,rejoinderid (a:  ( 왜 물어 보세요? ) 요즘에는 K-POP을 좋아하는 사람이 많아서요. ),checksum
+~introductions ~kpop #pending
+~kpop + 1 LbjER ia 3 0 0 
+~introductions + 1 Uk?Kk ca 2 0 0 
+#`end topics
+$cs_randindex=774
+$cs_bot=Harry
+$cs_login=runray
+$cs_token=75726583
+$cs_control_main=~control
+$userprompt=runray: >
+$botprompt=HARRY: 
+$singleresponse=1
+$shutup=1
+$cs_trace=0
+$cs_time=0
+#`end variables
+0 #set flags
+#`end fact sets
+#`end user facts 0
+#context ~honest_response 1 GRUNT 
+ d
+ \\d
+ d
+#`end user
+ Welcome to ChatScript.
+ Indeed.
+ Have you been here before?
+ 혹시 K-POP 좋아하세요?
+#`end chatbot

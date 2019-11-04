@@ -1,0 +1,16 @@
+﻿Respond: user:fads bot:harry ip:127.0.0.1 (~introductions) 1  fads ==> OK.  When:Nov02'19-12:44:01 Why:~honest_response.45.0=GRUNT.~quibble_all.12.0   F:5 
+Respond: user:fads bot:harry ip:127.0.0.1 (~introductions) 2  안녕 ==> 여기 와본적 있니?  When:Nov02'19-12:44:04 Why:~introductions.2.0.~control.9.0   F:1 
+Command: :build reset sebom
+Respond: user:fads bot:harry ip:127.0.0.1 (~진로상담) 3  build sebom reset ==> 몇살이신가요?  When:Nov02'19-12:44:17 Why:~진로상담.0.0.~control.9.0   F:12 
+Command: :build sebom reset
+Command: :reset
+Start: user:fads bot:harry ip:127.0.0.1 rand:2083 (~introductions) 0 ==> 만나서 반가워~ 나는 직업,진학 정보를 제공하는 드림캐쳐 chatbot 이야~!  When:Nov02'19-12:44:27 Why:~introductions.1.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Nov02'19-12:44:21 0:Nov02'19-12:44:01 F:0 P:Nov02'19-12:44:17
+Respond: user:fads bot:harry ip:127.0.0.1 (~introductions) 1  안녕 ==> OK.  When:Nov02'19-12:44:30 Why:~honest_response.45.0=GRUNT.~quibble_all.12.0   F:2 
+Respond: user:fads bot:harry ip:127.0.0.1 (~introductions) 2  즐 ==> 여기 와본적 있니?  When:Nov02'19-12:44:32 Why:~introductions.2.0.~control.9.0   F:0 
+Respond: user:fads bot:harry ip:127.0.0.1 (~introductions) 3  아 ==> 처음이구나!!  When:Nov02'19-12:44:34 Why:~introductions.2.2   F:0 
+Respond: user:fads bot:harry ip:127.0.0.1 (~진로상담) 4  응 ==> 몇살이신가요?  When:Nov02'19-12:44:37 Why:~진로상담.0.0.~control.9.0   F:0 
+Respond: user:fads bot:harry ip:127.0.0.1 (~진로상담) 5  17 ==> 아, 고등학생이군요. 대학진학을 목표로 하나요?  When:Nov02'19-12:44:40 Why:~진로상담.0.6   F:1 
+Respond: user:fads bot:harry ip:127.0.0.1 (~진로상담) 6  아니 ==> 취업을 목표로 하시나봐요, 꿈이 있나요?  When:Nov02'19-12:44:47 Why:~진로상담.0.10   F:1 
+Respond: user:fads bot:harry ip:127.0.0.1 (~진로상담) 7  응 ==> 고등학교 다니면서 궁금한점 있나요?  When:Nov02'19-12:44:50 Why:~진로상담.2.0.~control.9.0   F:1 
+Respond: user:fads bot:harry ip:127.0.0.1 (~진로상담) 8  아니 ==> 어떤 고민이 있니?  When:Nov02'19-12:44:52 Why:~진로상담.4.0.~control.9.0   F:0 
+Respond: user:fads bot:harry ip:127.0.0.1 (~진로상담) 9  없어 ==> I don't know what to say.  When:Nov02'19-12:44:54 Why:~control.9.0   F:1 

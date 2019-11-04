@@ -1,0 +1,26 @@
+USERS/topic_룬_harry.txt
+jul2116 Oct25'19-20:19:17 Oct25'19-20:19:17 0 |
+1 1 ~introductions !Mb &FrN3  DY 0 22 22 0 # start, input#, rejoindertopic,rejoinderid (a:  ( ~yes ) Welcome back! ),checksum
+~introductions #pending
+~introductions + 1 &FrN3 ca 1 0 0 
+#`end topics
+$shutup=1
+$singleresponse=1
+$botprompt=HARRY: 
+$userprompt=룬: >
+$cs_control_main=~control
+$cs_token=75726583
+$cs_login=룬레이
+$cs_bot=Harry
+$cs_randindex=63
+$cs_trace=0
+$cs_time=0
+#`end variables
+0 #set flags
+#`end fact sets
+#`end user facts 0
+#context 
+ ㅇㅇ
+#`end user
+ Have you been here before?
+#`end chatbot

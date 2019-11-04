@@ -1,0 +1,4 @@
+﻿Start: user:daejin bot:harry ip: rand:4016 (~introductions) 0 ==> Welcome to ChatScript.  When:Oct25'19-17:19:15 Why:~introductions.1.0.~control.0.0  Version:8.8 Build0:Aug18'19-17:00:05 Build1:Aug31'19-08:28:45 0:Oct25'19-17:19:15 F:0 P:0
+Respond: user:daejin bot:harry ip: (~introductions) 1   :q ==> Have you been here before?  When:Oct25'19-17:19:19 Why:~introductions.2.0.~control.9.0   F:4 
+Command: :quit
+Exiting ChatScript via Quit

@@ -1,0 +1,29 @@
+USERS/topic_asdf_harry.txt
+jul2116 Nov02'19-12:51:56 Nov02'19-12:51:59 0 |
+1 2 ~진로상담 ZMb #EW?r  DY 0 22 22 0 # start, input#, rejoindertopic,rejoinderid (a:  ( ~중 ) 아, 중학생이군요. 인문계, 전문계 중 어떤 고등학교를 가고�...   ),checksum
+~introductions ~진로상담 #pending
+~진로상담 + 1 #EW?r ia 2 0 0 
+~introductions + 1 R*QqFIs*Ok3 ca 1 0 0 
+#`end topics
+$cs_randindex=1731
+$cs_bot=Harry
+$cs_login=asdf
+$cs_token=75726583
+$cs_control_main=~control
+$userprompt=asdf: >
+$botprompt=HARRY: 
+$singleresponse=1
+$shutup=1
+$cs_trace=0
+$cs_time=0
+#`end variables
+0 #set flags
+#`end fact sets
+#`end user facts 0
+#context 
+ fdsa
+ fdas
+#`end user
+ 여기 와본적 있니?
+ 몇살이신가요?
+#`end chatbot

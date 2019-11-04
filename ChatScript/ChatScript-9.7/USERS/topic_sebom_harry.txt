@@ -1,0 +1,33 @@
+USERS/topic_sebom_harry.txt
+jul2116 Oct25'19-17:32:04 Oct25'19-17:36:43 0 |
+1 4 0 DY 0 22 22 0 # start, input#, no rejoinder, #0topics, #1topics, layer2
+~introductions ~childhood #pending
+~childhood + 2 DDso2 maaa 4 0 0 
+~introductions + 1 &FrN3 ca 1 0 0 
+#`end topics
+$cs_randindex=1019
+$cs_bot=Harry
+$cs_login=SEBOM
+$cs_token=75726583
+$cs_control_main=~control
+$userprompt=sebom: >
+$botprompt=HARRY: 
+$singleresponse=1
+$shutup=1
+$cs_trace=0
+$cs_time=0
+#`end variables
+0 #set flags
+#`end fact sets
+#`end user facts 0
+#context ~childhood 4 RUNAWAY 
+ dd
+ hi
+ da
+ hi
+#`end user
+ Have you been here before?
+ Did you run away from home when you were little?
+ Was it fun?
+ I ran away once, but my parents found me and dragged me back.
+#`end chatbot

@@ -1,0 +1,13 @@
+topic: ~INTRODUCTIONS (~emogoodbye ~emohello ~emohowzit name here )
+
+#!x matches every time on startup of a new conversation
+t: ( %input<%userfirstline )
+	^keep()
+	만나서 반가워~ 나는 직업,진학 정보를 제공하는 드림캐쳐 chatbot 이야~!
+
+#!x issued only once, then erased
+t: 여기 와본적 있니?
+	#! yes
+	a: ( ~예 ) 또 왔구나!!
+	#! no
+	a: ( ~아니요 ) 처음이구나!!

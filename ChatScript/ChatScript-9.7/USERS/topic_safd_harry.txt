@@ -1,0 +1,36 @@
+USERS/topic_safd_harry.txt
+jul2116 Oct25'19-19:55:14 Oct25'19-19:55:24 0 |
+3 4 0 DY 0 22 22 0 # start, input#, no rejoinder, #0topics, #1topics, layer2
+~introductions ~childhood #pending
+~childhood + 2 DDso2 iaaa 4 0 0 
+~introductions + 1 &FrN3 ca 2 0 0 
+#`end topics
+$shutup=1
+$singleresponse=1
+$botprompt=HARRY: 
+$userprompt=safd: >
+$cs_control_main=~control
+$cs_token=75726583
+$cs_login=safd
+$cs_bot=Harry
+$cs_randindex=2371
+$cs_trace=0
+$cs_time=0
+#`end variables
+0 #set flags
+#`end fact sets
+#`end user facts 0
+#context ~honest_response 1 GRUNT 
+ dfas
+ sdf
+ sf
+ yes
+#`end user
+ Cool.
+ Hi, again.
+ Hi.
+ Have you been here before?
+ Glad you came back.
+ Did you run away from home when you were little?
+ Was it fun?
+#`end chatbot
