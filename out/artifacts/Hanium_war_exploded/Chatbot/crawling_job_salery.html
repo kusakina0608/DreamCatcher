@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.6.10/vue.min.js" charset="utf-8"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.18.0/axios.min.js" charset="utf-8"></script>
+    <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/pure-min.css" integrity="sha384-nn4HPE8lTHyVtfCBi5yW9d20FjT8BJwUXyWZT9InLYax14RDjBj46LmSztkmNP9w" crossorigin="anonymous">
+</head>
+<body>
+<ul id="contents">
+    <dim v-for="job in jobs">{{job.job}}&{{job.salery}}<br></dim>
+</ul>
+</body>
+<script type="text/javascript">
+    /*<![CDATA[*/
+    var app = new Vue({
+        el: '#contents',
+        data: {
+            jobs:[]
+        },
+        methods: {
+
+        },
+        computed: {}
+    });
+    app.$nextTick(function () {
+        axios.get('http://www.career.go.kr/cnet/openapi/getOpenApi?apiKey=93c3a0bd2f5d4243f004e151edbf0765&svcType=api&svcCode=JOB&contentType=json&gubun=job_dic_list&perPage=99999999').then(function(res){
+            //axios.get('http://www.career.go.kr/cnet/openapi/getOpenApi?apiKey=93c3a0bd2f5d4243f004e151edbf0765&svcType=api&svcCode=JOB_VIEW&contentType=json&gubun=job_dic_list&jobdicSeq=444').then(function(res){
+            app.jobs = res.data.dataSearch.content;
+        });
+    });
+    /*]]>*/
+</script>
+</html>
